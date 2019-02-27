@@ -1,0 +1,14 @@
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\CsQuery.dll
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\EntityFramework.dll
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\CsQuery.xml
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\EntityFramework.xml
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojAssemblyReference.cache
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CoreCompileInputs.cache
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CopyComplete
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+C:\Users\MrTorry\Documents\Visual Studio 2017\Projects\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
